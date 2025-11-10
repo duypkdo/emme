@@ -1,0 +1,1508 @@
+body {
+    margin: 0;
+}
+
+.col-1 { width: 4.16%; }
+.col-2 { width: 8.3%; }
+.col-3 { width: 12.5%; }
+.col-4 { width: 16.66%; }
+.col-5 { width: 20.83%; }
+.col-6 { width: 25%; }
+.col-7 { width: 29.16%; }
+.col-8 { width: 33.33%; }
+.col-9 { width: 37.5%; }
+.col-10 { width: 41.66%; }
+.col-11 { width: 45.83%; }
+.col-12 { width: 50%; }
+.col-13 { width: 54.16%; }
+.col-14 { width: 58.33%; }
+.col-15 { width: 62.5%; }
+.col-16 { width: 66.66%; }
+.col-17 { width: 70.83%; }
+.col-18 { width: 75%; }
+.col-19 { width: 79.16%; }
+.col-20 { width: 83.33%; }
+.col-21 { width: 87.5%; }
+.col-22 { width: 91.66%; }
+.col-23 { width: 95.83%; }
+.col-24 { width: 100%; }
+
+.background-1 {
+    float: left;
+    height: 100svh;
+    background-image: url("../images/background.png");
+    background-size: 100% 100%;
+    background-color: #f1f1f1;
+}
+
+p {
+    color: #907f7c;
+}
+
+p a.italic:hover {
+    font-family: "embury-text", serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Index */
+
+    .em-me {
+        height: 26vh;
+        margin-top: 36.8vh;
+    }
+        
+        .margin-1 {
+            float: left;
+            height: 26vh;
+        }
+    
+        .em {
+            height: 26vh;
+            float: left;
+        }
+
+            .em p {
+                font-size: 26vh;
+                padding: 0;
+                margin: 0;
+                font-family: "altesse-std-64pt", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+            }
+        
+        .margin-2 {
+            float: left;
+            height: 26vh;
+        }
+        
+        .enter {
+            height: 3.05vh;
+            float: left;
+            margin-top: 11.38vh;
+        }
+
+            .enter p {
+                font-size: 3.05vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .enter p a {
+                    color: #907f7c;
+                }
+
+        .margin-3 {
+            float: left;
+            height: 26vh;
+        }
+        
+        .me {
+            height: 26vh;
+            float: left;
+        }
+
+            .me p {
+                font-size: 26vh;
+                padding: 0;
+                margin: 0;
+                font-family: "altesse-std-64pt", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+            }
+
+/* Home Page/Em */    
+
+.background {
+    background-color: #f1f1f1;
+    float: left;
+    height: 100vh;
+    background-image: url("../images/em.jpeg");
+    background-size: 100vh;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+    .title-1 {
+        float: left;
+        height: 1.9vh;
+        margin-top: 4.7vh;
+    }
+
+        .title-1 .margin-4 {
+            float: left;
+            height: 1.9vh;
+        }    
+        
+        .title-1 .the-album {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .title-1 .the-album p {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .title-1 .the-album p a {
+                    color: #907f7c;
+                }
+
+        .title-1 .margin-5 {
+            float: left;
+            height: 1.9vh;
+        }
+
+        .title-1 .the-artist {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .title-1 .the-artist p {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .title-1 .the-artist p a {
+                    color: #907f7c;
+                }
+
+    .name {
+        float: left;
+        height: 27vh;
+        margin-top: 32vh;
+    }
+
+        .name .margin-6 {
+            float: left;
+            height: 27vh;
+        }    
+    
+        .name .em {
+            float: left;
+            height: 27vh;
+        }
+
+            .name .em p {
+                font-size: 27vh;
+                padding: 0;
+                font-family: "altesse-std-64pt", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                margin: 0;
+            }
+
+                .name .em p a {
+                    color: #907f7c;
+                }
+
+    .title-2 {
+        float: left;
+        height: 1.9vh;
+        margin-top: 26vh;
+    }
+
+        .title-2 .margin-7 {
+            float: left;
+            height: 1.9vh;
+        }    
+        
+        .title-2 .the-tracks {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .title-2 .the-tracks p {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                margin: 0;
+            }
+
+                .title-2 .the-tracks p a {
+                    color: #907f7c;
+                }
+
+        .title-2 .margin-8 {
+            float: left;
+            height: 1.9vh;
+        }
+
+        .title-2 .the-visual {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .title-2 .the-visual p {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                margin: 0;
+            }
+
+                .title-2 .the-visual p a {
+                    color: #907f7c;
+                }
+                        
+    .right {
+        height: 100%;
+        float: left;
+        margin-left: 3%;
+    }
+
+        .right img {
+            height: 100%;
+            width: 100%;
+            object-fit: contain;
+        }
+
+/* THE TRACKS */
+
+.background-2 {
+    background-color: #f1f1f1;
+    float: left;
+    height: 100svh;
+}
+
+    .text-1 {
+        height: 1.9vh;
+        float: left;
+        margin-top: 4.5vh;
+    }
+
+        .text-1 .margin-9 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .text-1 .the-tracks {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .text-1 .the-tracks p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                letter-spacing: 0.13vh;
+            }
+
+                .text-1 .the-tracks p a {
+                    color: #907f7c;
+                }
+
+    .text-2 {
+        height: 50vh;
+        float: left;
+        margin-top: 6.3vh;
+    }
+
+        .text-2 .margin-10 {
+            float: left;
+            height: 50vh;
+        }
+    
+        .text-2 .tracklist {
+            float: left;
+            height: 50vh;
+        }
+
+            .text-2 .tracklist ul {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                float: right;
+                letter-spacing: 0.2vw;
+                line-height: 5.6vh;
+                text-align: right;
+            }
+
+                .text-2 .tracklist ul li {
+                    color: #907f7c;
+                    text-decoration: none;
+                    list-style: none;
+                    padding: 0;
+                }
+
+    .text-3 {
+        height: 10vh;
+        float: left;
+    }
+
+        .text-3 .margin-11 {
+            float: left;
+            height: 10vh;
+        }
+        
+        .text-3 .em {
+            float: left;
+            height: 10vh;
+            margin: 0;
+        }
+
+            .text-3 .em p {
+                font-size: 10vh;
+                padding: 0;
+                margin: 0;
+                font-family: "altesse-std-64pt", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+            }
+
+                .text-3 .em p a {
+                    color: #907f7c;
+                }
+
+    .text-4 {
+        height: 1.9vh;
+        float: left;
+        margin-top: 19.4vh;
+    }
+
+        .text-4 p {
+            letter-spacing: 0.13vh;
+        }
+    
+        .text-4 .margin-12 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .text-4 .the-artist {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .text-4 .the-artist p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .text-4 .the-artist p a {
+                    color: #907f7c;
+                }
+        
+        .text-4 .margin-13 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .text-4 .the-album {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .text-4 .the-album p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .text-4 .the-album p a {
+                    color: #907f7c;
+                }
+        
+        .text-4 .margin-14 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .text-4 .the-visual {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .text-4 .the-visual p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .text-4 .the-visual p a {
+                    color: #907f7c;
+                }
+
+/* ME */
+
+p1 {
+    color: #f1f1f1;
+}
+
+p1 a.italic:hover {
+    font-family: "embury-text", serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.background-3 {
+    background-color: #907f7c;
+    float: left;
+    height: 100vh;
+    background-image: url("../images/me.png");
+    background-size: 100vh;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+    .background-3 .title-1 {
+        float: left;
+        height: 1.9vh;
+        margin-top: 4.7vh;
+    }
+
+        .background-3 .title-1 .margin-4 {
+            float: left;
+            height: 1.9vh;
+        }    
+        
+        .background-3 .title-1 .the-album {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-3 .title-1 .the-album p1 {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .background-3 .title-1 .the-album p1 a {
+                    color: #f1f1f1;
+                }
+
+        .background-3 .title-1 .margin-5 {
+            float: left;
+            height: 1.9vh;
+        }
+
+        .background-3 .title-1 .the-artist {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-3 .title-1 .the-artist p1 {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .background-3 .title-1 .the-artist p1 a {
+                    color: #f1f1f1;
+                }
+
+    .background-3 .name {
+        float: left;
+        height: 27vh;
+        margin-top: 32vh;
+    }
+
+        .background-3 .name .margin-6 {
+            float: left;
+            height: 27vh;
+        }    
+    
+        .background-3 .name .me {
+            float: left;
+            height: 27vh;
+        }
+
+            .background-3 .name .me p1 {
+                font-size: 27vh;
+                padding: 0;
+                font-family: "altesse-std-64pt", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                margin: 0;
+            }
+
+                .background-3 .name .me p1 a {
+                    color: #f1f1f1;
+                }
+
+    .background-3 .title-2 {
+        float: left;
+        height: 1.9vh;
+        margin-top: 26vh;
+    }
+
+        .background-3 .title-2 .margin-7 {
+            float: left;
+            height: 1.9vh;
+        }    
+        
+        .background-3 .title-2 .the-tracks {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-3 .title-2 .the-tracks p1 {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                margin: 0;
+            }
+
+                .background-3 .title-2 .the-tracks p1 a {
+                    color: #f1f1f1;
+                }
+
+        .background-3 .title-2 .margin-8 {
+            float: left;
+            height: 1.9vh;
+        }
+
+        .background-3 .title-2 .the-visual {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-3 .title-2 .the-visual p1 {
+                font-size: 1.9vh;
+                padding: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                margin: 0;
+            }
+
+                .background-3 .title-2 .the-visual p1 a {
+                    color: #f1f1f1;
+                }
+
+/* THE TRACKS */
+
+.background-4 {
+    background-color: #907f7c;
+    float: left;
+    height: 100vh;
+}
+
+    .background-4 .text-1 {
+        height: 1.9vh;
+        float: left;
+        margin-top: 4.5vh;
+    }
+
+        .background-4 .text-1 .margin-9 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .background-4 .text-1 .the-tracks {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-4 .text-1 .the-tracks p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                letter-spacing: 0.13vh;
+            }
+
+                .background-4 .text-1 .the-tracks p a {
+                    color: #f1f1f1;
+                }
+
+    .background-4 .text-2 {
+        height: 50vh;
+        float: left;
+        margin-top: 6.3vh;
+    }
+
+        .background-4 .text-2 .margin-10 {
+            float: left;
+            height: 50vh;
+        }
+    
+        .background-4 .text-2 .tracklist {
+            float: left;
+            height: 50vh;
+        }
+
+            .background-4 .text-2 .tracklist ul {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+                float: left;
+                letter-spacing: 0.2svw;
+                line-height: 5.6vh;
+                text-align: left;
+            }
+
+                .background-4 .text-2 .tracklist ul li {
+                    color: #f1f1f1;
+                    text-decoration: none;
+                    list-style: none;
+                    padding: 0;
+                }
+
+    .background-4 .text-3 {
+        height: 10vh;
+        float: left;
+    }
+
+        .background-4 .text-3 .margin-11 {
+            float: left;
+            height: 10vh;
+        }
+        
+        .background-4 .text-3 .me {
+            float: left;
+            height: 10vh;
+            margin: 0;
+        }
+
+            .background-4 .text-3 .me p {
+                font-size: 10vh;
+                padding: 0;
+                margin: 0;
+                font-family: "altesse-std-64pt", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+            }
+
+                .background-4 .text-3 .me p a {
+                    color: #f1f1f1;
+                }
+
+    .background-4 .text-4 {
+        height: 1.9vh;
+        float: left;
+        margin-top: 19.4vh;
+    }
+
+        .background-4 .text-4 p {
+            letter-spacing: 0.13vh;
+        }
+    
+        .background-4 .text-4 .margin-12 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .background-4 .text-4 .the-artist {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-4 .text-4 .the-artist p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .background-4 .text-4 .the-artist p a {
+                    color: #f1f1f1;
+                }
+        
+        .background-4 .text-4 .margin-13 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .background-4 .text-4 .the-album {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-4 .text-4 .the-album p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .background-4 .text-4 .the-album p a {
+                    color: #f1f1f1;
+                }
+        
+        .background-4 .text-4 .margin-14 {
+            float: left;
+            height: 1.9vh;
+        }
+        
+        .background-4 .text-4 .the-visual {
+            float: left;
+            height: 1.9vh;
+        }
+
+            .background-4 .text-4 .the-visual p {
+                font-size: 1.9vh;
+                padding: 0;
+                margin: 0;
+                font-family: "embury-text", serif;
+                font-weight: 200;
+                font-style: normal;
+            }
+
+                .background-4 .text-4 .the-visual p a {
+                    color: #f1f1f1;
+                }
+
+
+
+/* Responsive */
+
+@media only screen and (max-width: 960px) {
+
+/* Index */
+
+.em-me {
+    height: 26vh;
+    margin-top: 7.4vh;
+    grid-template-areas: 'div-1 div-2 div-';
+}
+    
+    .margin-1 {
+        float: left;
+        height: 26vh;
+    }
+
+    .em {
+        height: 26vh;
+        float: left;
+    }
+    
+    .margin-2 {
+        float: left;
+        height: 26vh;
+    }
+
+    
+    
+    .enter {
+        height: 3.05vh;
+        float: left;
+        margin-top: 11.38vh;
+    }
+
+    .margin-3 {
+        float: left;
+        height: 26vh;
+    }
+    
+    .me {
+        height: 26vh;
+        float: left;
+    }
+
+/* Home Page/Em */    
+
+.background {
+background-color: #f1f1f1;
+float: left;
+height: 100vh;
+background-image: url("../images/em.jpeg");
+background-size: 100vh;
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.title-1 {
+    float: left;
+    height: 1.9svh;
+    margin-top: 4.7svh;
+}
+
+    .title-1 .margin-4 {
+        float: left;
+        height: 1.9svh;
+    }    
+    
+    .title-1 .the-album {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .title-1 .the-album p {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .title-1 .the-album p a {
+                color: #907f7c;
+            }
+
+    .title-1 .margin-5 {
+        float: left;
+        height: 1.9svh;
+    }
+
+    .title-1 .the-artist {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .title-1 .the-artist p {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .title-1 .the-artist p a {
+                color: #907f7c;
+            }
+
+.name {
+    float: left;
+    height: 27svh;
+    margin-top: 32svh;
+}
+
+    .name .margin-6 {
+        float: left;
+        height: 27svh;
+    }    
+
+    .name .em {
+        float: left;
+        height: 27svh;
+    }
+
+        .name .em p {
+            font-size: 27svh;
+            padding: 0;
+            font-family: "altesse-std-64pt", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            margin: 0;
+        }
+
+            .name .em p a {
+                color: #907f7c;
+            }
+
+.title-2 {
+    float: left;
+    height: 1.9svh;
+    margin-top: 26svh;
+}
+
+    .title-2 .margin-7 {
+        float: left;
+        height: 1.9svh;
+    }    
+    
+    .title-2 .the-tracks {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .title-2 .the-tracks p {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            margin: 0;
+        }
+
+            .title-2 .the-tracks p a {
+                color: #907f7c;
+            }
+
+    .title-2 .margin-8 {
+        float: left;
+        height: 1.9svh;
+    }
+
+    .title-2 .the-visual {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .title-2 .the-visual p {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            margin: 0;
+        }
+
+            .title-2 .the-visual p a {
+                color: #907f7c;
+            }
+                    
+.right {
+    height: 100%;
+    float: left;
+    margin-left: 3%;
+}
+
+    .right img {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+    }
+
+/* THE TRACKS */
+
+.background-2 {
+background-color: #f1f1f1;
+float: left;
+height: 100svh;
+}
+
+.text-1 {
+    height: 1.9svh;
+    float: left;
+    margin-top: 4.5svh;
+}
+
+    .text-1 .margin-9 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .text-1 .the-tracks {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .text-1 .the-tracks p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            letter-spacing: 0.13svh;
+        }
+
+            .text-1 .the-tracks p a {
+                color: #907f7c;
+            }
+
+.text-2 {
+    height: 50svh;
+    float: left;
+    margin-top: 6.3svh;
+}
+
+    .text-2 .margin-10 {
+        float: left;
+        height: 50svh;
+    }
+
+    .text-2 .tracklist {
+        float: left;
+        height: 50svh;
+    }
+
+        .text-2 .tracklist ul {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            float: right;
+            letter-spacing: 0.2svw;
+            line-height: 5.6svh;
+            text-align: right;
+        }
+
+            .text-2 .tracklist ul li {
+                color: #907f7c;
+                text-decoration: none;
+                list-style: none;
+                padding: 0;
+            }
+
+.text-3 {
+    height: 10svh;
+    float: left;
+}
+
+    .text-3 .margin-11 {
+        float: left;
+        height: 10svh;
+    }
+    
+    .text-3 .em {
+        float: left;
+        height: 10svh;
+        margin: 0;
+    }
+
+        .text-3 .em p {
+            font-size: 10svh;
+            padding: 0;
+            margin: 0;
+            font-family: "altesse-std-64pt", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+            .text-3 .em p a {
+                color: #907f7c;
+            }
+
+.text-4 {
+    height: 1.9svh;
+    float: left;
+    margin-top: 19.4svh;
+}
+
+    .text-4 p {
+        letter-spacing: 0.13svh;
+    }
+
+    .text-4 .margin-12 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .text-4 .the-artist {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .text-4 .the-artist p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .text-4 .the-artist p a {
+                color: #907f7c;
+            }
+    
+    .text-4 .margin-13 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .text-4 .the-album {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .text-4 .the-album p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .text-4 .the-album p a {
+                color: #907f7c;
+            }
+    
+    .text-4 .margin-14 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .text-4 .the-visual {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .text-4 .the-visual p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .text-4 .the-visual p a {
+                color: #907f7c;
+            }
+
+/* ME */
+
+p1 {
+color: #f1f1f1;
+}
+
+p1 a.italic:hover {
+font-family: "embury-text", serif;
+font-weight: 200;
+font-style: italic;
+}
+
+.background-3 {
+background-color: #907f7c;
+float: left;
+height: 100svh;
+background-image: url("../images/me.png");
+background-size: 100svh;
+background-repeat: no-repeat;
+background-position: left;
+}
+
+.background-3 .title-1 {
+    float: left;
+    height: 1.9svh;
+    margin-top: 4.7svh;
+}
+
+    .background-3 .title-1 .margin-4 {
+        float: left;
+        height: 1.9svh;
+    }    
+    
+    .background-3 .title-1 .the-album {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-3 .title-1 .the-album p1 {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .background-3 .title-1 .the-album p1 a {
+                color: #f1f1f1;
+            }
+
+    .background-3 .title-1 .margin-5 {
+        float: left;
+        height: 1.9svh;
+    }
+
+    .background-3 .title-1 .the-artist {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-3 .title-1 .the-artist p1 {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .background-3 .title-1 .the-artist p1 a {
+                color: #f1f1f1;
+            }
+
+.background-3 .name {
+    float: left;
+    height: 27svh;
+    margin-top: 32svh;
+}
+
+    .background-3 .name .margin-6 {
+        float: left;
+        height: 27svh;
+    }    
+
+    .background-3 .name .me {
+        float: left;
+        height: 27svh;
+    }
+
+        .background-3 .name .me p1 {
+            font-size: 27svh;
+            padding: 0;
+            font-family: "altesse-std-64pt", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            margin: 0;
+        }
+
+            .background-3 .name .me p1 a {
+                color: #f1f1f1;
+            }
+
+.background-3 .title-2 {
+    float: left;
+    height: 1.9svh;
+    margin-top: 26svh;
+}
+
+    .background-3 .title-2 .margin-7 {
+        float: left;
+        height: 1.9svh;
+    }    
+    
+    .background-3 .title-2 .the-tracks {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-3 .title-2 .the-tracks p1 {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            margin: 0;
+        }
+
+            .background-3 .title-2 .the-tracks p1 a {
+                color: #f1f1f1;
+            }
+
+    .background-3 .title-2 .margin-8 {
+        float: left;
+        height: 1.9svh;
+    }
+
+    .background-3 .title-2 .the-visual {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-3 .title-2 .the-visual p1 {
+            font-size: 1.9svh;
+            padding: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            margin: 0;
+        }
+
+            .background-3 .title-2 .the-visual p1 a {
+                color: #f1f1f1;
+            }
+
+/* THE TRACKS */
+
+.background-4 {
+background-color: #907f7c;
+float: left;
+height: 100svh;
+}
+
+.background-4 .text-1 {
+    height: 1.9svh;
+    float: left;
+    margin-top: 4.5svh;
+}
+
+    .background-4 .text-1 .margin-9 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .background-4 .text-1 .the-tracks {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-4 .text-1 .the-tracks p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            letter-spacing: 0.13svh;
+        }
+
+            .background-4 .text-1 .the-tracks p a {
+                color: #f1f1f1;
+            }
+
+.background-4 .text-2 {
+    height: 50svh;
+    float: left;
+    margin-top: 6.3svh;
+}
+
+    .background-4 .text-2 .margin-10 {
+        float: left;
+        height: 50svh;
+    }
+
+    .background-4 .text-2 .tracklist {
+        float: left;
+        height: 50svh;
+    }
+
+        .background-4 .text-2 .tracklist ul {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+            float: left;
+            letter-spacing: 0.2svw;
+            line-height: 5.6svh;
+            text-align: left;
+        }
+
+            .background-4 .text-2 .tracklist ul li {
+                color: #f1f1f1;
+                text-decoration: none;
+                list-style: none;
+                padding: 0;
+            }
+
+.background-4 .text-3 {
+    height: 10svh;
+    float: left;
+}
+
+    .background-4 .text-3 .margin-11 {
+        float: left;
+        height: 10svh;
+    }
+    
+    .background-4 .text-3 .me {
+        float: left;
+        height: 10svh;
+        margin: 0;
+    }
+
+        .background-4 .text-3 .me p {
+            font-size: 10svh;
+            padding: 0;
+            margin: 0;
+            font-family: "altesse-std-64pt", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+            .background-4 .text-3 .me p a {
+                color: #f1f1f1;
+            }
+
+.background-4 .text-4 {
+    height: 1.9svh;
+    float: left;
+    margin-top: 19.4svh;
+}
+
+    .background-4 .text-4 p {
+        letter-spacing: 0.13svh;
+    }
+
+    .background-4 .text-4 .margin-12 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .background-4 .text-4 .the-artist {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-4 .text-4 .the-artist p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .background-4 .text-4 .the-artist p a {
+                color: #f1f1f1;
+            }
+    
+    .background-4 .text-4 .margin-13 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .background-4 .text-4 .the-album {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-4 .text-4 .the-album p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .background-4 .text-4 .the-album p a {
+                color: #f1f1f1;
+            }
+    
+    .background-4 .text-4 .margin-14 {
+        float: left;
+        height: 1.9svh;
+    }
+    
+    .background-4 .text-4 .the-visual {
+        float: left;
+        height: 1.9svh;
+    }
+
+        .background-4 .text-4 .the-visual p {
+            font-size: 1.9svh;
+            padding: 0;
+            margin: 0;
+            font-family: "embury-text", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+            .background-4 .text-4 .the-visual p a {
+                color: #f1f1f1;
+            }
+
+}
